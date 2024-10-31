@@ -9,7 +9,7 @@ Lab 2 - TSP (https://en.wikipedia.org/wiki/Travelling_salesman_problem)
 
 ### Vanuatu
 | Algorithm | Steps/Generations |  Distance (km) |
-|:---:|:---:|:---:|:---| 
+|:---:|:---:|:---| 
 |1GA|8|1475.53|
 |HC|10000|1479.99|
 |SA|1714|1345.54|
@@ -18,7 +18,7 @@ Lab 2 - TSP (https://en.wikipedia.org/wiki/Travelling_salesman_problem)
 
 ### Italy
 | Algorithm | Steps/Generations |  Distance (km) |
-|:---:|:---:|:---:|:---| 
+|:---:|:---:|:---| 
 |1GA|46|4436.03|
 |HC|10000|5872.91|
 |SA|3435|5641.64|
@@ -27,7 +27,7 @@ Lab 2 - TSP (https://en.wikipedia.org/wiki/Travelling_salesman_problem)
 
 ### Russia
 | Algorithm | Steps/Generations |  Distance (km) |
-|:---:|:---:|:---:|:---| 
+|:---:|:---:|:---| 
 |1GA|167|42334.16|
 |HC|10000|78801.82|
 |SA|17209|60034.26|
@@ -36,7 +36,7 @@ Lab 2 - TSP (https://en.wikipedia.org/wiki/Travelling_salesman_problem)
 
 ### US
 | Algorithm | Steps/Generations |  Distance (km) |
-|:---:|:---:|:---:|:---| 
+|:---:|:---:|:---| 
 |1GA|326|48050.03|
 |HC|10000|157747.18|
 |SA|17209|118350.84|
@@ -45,7 +45,7 @@ Lab 2 - TSP (https://en.wikipedia.org/wiki/Travelling_salesman_problem)
 
 ### China
 | Algorithm | Steps/Generations |  Distance (km) |
-|:---:|:---:|:---:|:---| 
+|:---:|:---:|:---| 
 |1GA|726|63962.92|
 |HC|30000|249806.08|
 |SA|34425|266883.26|
