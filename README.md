@@ -54,5 +54,5 @@ Lab 2 - TSP (https://en.wikipedia.org/wiki/Travelling_salesman_problem)
 |1GA|726|63962.92|
 |HC|30000|249806.08|
 |SA|34425|266883.26|
-|EA|-|154574.60|
+|EA|30000|154574.60|
 |3GA|1452|64475.14|
