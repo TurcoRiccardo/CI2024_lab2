@@ -1,14 +1,12 @@
 # CI2024_lab2
 
-Lab 2 - TSP (https://en.wikipedia.org/wiki/Travelling_salesman_problem)
+Lab 2 - Travelling salesman problem (TSP) (https://en.wikipedia.org/wiki/Travelling_salesman_problem)
 
 - https://www.wolframcloud.com/obj/giovanni.squillero/Published/Lab2-tsp.nb
 
-
 ## Performances
-
 - For he HC and the SA algorithm using insert_mutation have better result than using swap_mutation
-- For the EA algorithm we are using an HYPERMODERN model with cycle_crossover, insert_mutation and a steady-state population model
+- For the EA algorithm we are using an HYPERMODERN model with cycle_crossover, insert_mutation, a steady-state population model and for the parent selection we use tourment selection (tao = 2 number of selected parents)
     - POPULATION_SIZE = 50
     - OFFSPRING_SIZE = 10
 
